@@ -1,8 +1,16 @@
-## Hi there 👋
+<h1 align="center"><b>Hello, glad you stopped by — I’m Elias, a Venezuelan creative currently based in Barcelona</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  Exploring ideas, one repo at a time — welcome to my GitHub!
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=white&size=27&center=true&vCenter=true&width=600&height=100&lines=Web+Development+Student;++;Front-End+Enthusiast+;Love+to+learn+new+stuffs;"></a>
+</p>
+
+
 
 <!--
 **iamluismoran/iamluismoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Exploring ideas, one repo at a time—welcome to my GitHub!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
