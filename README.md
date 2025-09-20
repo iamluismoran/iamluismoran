@@ -31,12 +31,12 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=iamluismoran&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=23b096&icon_color=a3dcd2&text_color=b5e2da&bg_color=0,000000,16463d&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=iamluismoran&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=008bb2&icon_color=008bb2&text_color=b8c8dc&bg_color=0,000000,252f3c&hide_border=true"
     alt="GitHub Stats"
     width="395"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=iamluismoran&layout=compact&title_color=23b096&text_color=b5e2da&bg_color=0,000000,16463d&hide_border=true&card_width=380"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=iamluismoran&layout=compact&title_color=008bb2&text_color=b8c8dc&bg_color=0,000000,252f3c&hide_border=true&card_width=380"
     alt="Top Languages"
     width="380"
   />
