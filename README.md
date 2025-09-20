@@ -13,7 +13,7 @@
 <br>
 
 - A self-taught developer driven by curiosity and creativity
-- Always curious about languages — currently improving my English and beginning German
+- Always curious about languages — improving my English and beginning German
 - Currently studying Web Development in IronHack 
 - Brand Identity Designer passionate about visual identity — I’ve led branding projects worldwide
 - Outside of development, I bring ideas to life through design, check out my [portfolio](https://www.behance.net/97f5fb57morpi)
