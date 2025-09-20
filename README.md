@@ -24,7 +24,7 @@
 
 
 <!--My Dev Journey-->
-<h2 align="left">
+## <h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
   <b>My Dev Journey</b>
 </h2>
@@ -33,7 +33,7 @@
 
 ![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamluismoran&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=23b096&icon_color=a3dcd2&text_color=b5e2da&bg_color=0,000000,16463d&hide_border=true)
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=iamluismoran&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=23b096&icon_color=a3dcd2&text_color=b5e2da&bg_color=0,000000,16463d&hide_border=true&card_width=460"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=iamluismoran&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=23b096&icon_color=a3dcd2&text_color=b5e2da&bg_color=0,000000,16463d&hide_border=true&card_width=440"
     alt="Top Languages"
     height="240"
   />
