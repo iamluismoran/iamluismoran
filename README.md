@@ -33,14 +33,15 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=iamluismoran&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=23b096&icon_color=a3dcd2&text_color=b5e2da&bg_color=0,000000,16463d&hide_border=true"
     alt="GitHub Stats"
-    height="190"
+    width="395"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=iamluismoran&layout=compact&title_color=23b096&text_color=b5e2da&bg_color=0,000000,16463d&hide_border=true&card_width=420"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=iamluismoran&layout=compact&title_color=23b096&text_color=b5e2da&bg_color=0,000000,16463d&hide_border=true&card_width=380"
     alt="Top Languages"
-    height="190"
+    width="380"
   />
 </p>
+
 
 
 
