@@ -18,7 +18,7 @@
 - Brand Identity Designer passionate about visual identity — I’ve led branding projects worldwide
 - Outside of development, I bring ideas to life through design, check out my [portfolio](https://www.behance.net/97f5fb57morpi)
 - When I’m not designing or coding, you’ll probably find me watching movies
-- I’m currently open for a new job opportunity
+- I’m currently open for a new job opportunity, [view my CV here](https://rxresu.me/iamluismoran/resume)
 <br><br>
 
 
