@@ -31,7 +31,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=iamluismoran&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=008bb2&icon_color=008bb2&text_color=b8c8dc&bg_color=0,000000,252f3c&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=iamluismoran&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=008bb2&icon_color=008bb2&text_color=b8c8dc&bg_color=0,000000,252f3c&hide_border=true"
     alt="GitHub Stats"
     width="395"
   />
